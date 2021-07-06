@@ -49,4 +49,12 @@ We plan on adding ML model to evaluate the feedback based on the type of product
 
 
 ### Shasank Periwal: 
-• App dev frontend (major) <br/>
+• App dev frontend (major) <br/><br/>
+
+
+## Why did we choose Flutter and MERN
+#### Flutter
+Flutter is based on Google’s in-house programming language-Dart. Flutter is multi-platform portable, also with the launch of HummingBird Google has added web support to the Flutter mobile applications that use a web view control and can load and display the content dynamically without rewriting the content. Again, the windows version of an application can be made which is currently in development stage.
+
+#### MERN
+We used MERN as it facilitates the MVC (Model View Controller) architecture that make the web development process work smoothly. MERN is considered a cost-effective stack as with open-source support, accessible set-up and reduced learning time, it may have the lowest development cost. MERN framework helps to build flexible and scalable websites. The four technologies provide smooth integration with cloud platforms
