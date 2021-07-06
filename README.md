@@ -74,8 +74,16 @@ We used MERN as it facilitates the MVC (Model View Controller) architecture that
 
 ## Few Images from the mobile application
 
-<img align="left" alt="Sign in/ Sign up Screen" width="150px" src="images/1.jpeg" />
-<img align="left" alt="Home Screen" width="150px" src="images/2.jpeg" />
-<img align="left" alt="Side Drawer" width="150px" src="images/3.jpeg" />
-<img align="left" alt="Search Screen" width="150px" src="images/4.jpeg" />
-<img align="left" alt="MyCart Screen" width="150px" src="images/5.jpeg" />
+<img align="left" alt="Sign in/ Sign up Screen" width="150px" src="images/mobile/1.jpeg" />
+<img align="left" alt="Home Screen" width="150px" src="images/mobile/2.jpeg" />
+<img align="left" alt="Side Drawer" width="150px" src="images/mobile/3.jpeg" />
+<img align="left" alt="Search Screen" width="150px" src="images/mobile/4.jpeg" />
+<img align="left" alt="MyCart Screen" width="150px" src="images/mobile/5.jpeg" />
+
+## Few Images from Web application
+
+<img align="left" alt="Landing Page" width="325px" src="images/web/1.jpg" />
+<img align="left" alt="On Sale Page" width="325px" src="images/web/2.jpeg" />
+<img align="left" alt="Full page" width="325px" src="images/web/3.jpeg" />
+<img align="left" alt="Feedback Page" width="325px" src="images/web/4.jpeg" />
+<img align="left" alt="Admin Dashboard" width="325px" src="images/web/5.jpeg" />
