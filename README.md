@@ -46,10 +46,13 @@ We plan on adding ML model to evaluate the feedback based on the type of product
 
 ### Manish Bhardwaj:  
 • Web dev frontend (major) <br/>
+• Web dev backend (minor) <br/>
 
 
 ### Shasank Periwal: 
-• App dev frontend (major) <br/><br/>
+• App dev frontend (major) <br/>
+• App dev backend (minor) <br/><br/>
+
 
 
 ## Why did we choose Flutter and MERN
