@@ -74,11 +74,11 @@ We used MERN as it facilitates the MVC (Model View Controller) architecture that
 
 ## Few Images from the mobile application
 
-<img align="left" alt="Sign in/ Sign up Screen" width="150px" src="images/mobile/1.jpeg" />
-<img align="left" alt="Home Screen" width="150px" src="images/mobile/2.jpeg" />
-<img align="left" alt="Side Drawer" width="150px" src="images/mobile/3.jpeg" />
-<img align="left" alt="Search Screen" width="150px" src="images/mobile/4.jpeg" />
-<img align="left" alt="MyCart Screen" width="150px" src="images/mobile/5.jpeg" />
+<img align="left" alt="Sign in/ Sign up Screen" width="155px" src="images/mobile/1.jpeg" />
+<img align="left" alt="Home Screen" width="155px" src="images/mobile/2.jpeg" />
+<img align="left" alt="Side Drawer" width="155px" src="images/mobile/3.jpeg" />
+<img align="left" alt="Search Screen" width="155px" src="images/mobile/4.jpeg" />
+<img align="left" alt="MyCart Screen" width="155px" src="images/mobile/5.jpeg" />
 
 ## Few Images from Web application
 
