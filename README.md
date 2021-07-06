@@ -7,7 +7,7 @@
 
 ## Description
 
-An e - commerce sports website and app with a minimalistic and user friendly UI. Standard features include buying products
+An E-Commerce sports website and app with a minimalistic and user friendly UI. Standard features include buying products
 through cart system, product arrangement by categories and a robust feedback system. Consists of a reward system
 that encourages leaving feedbacks on products bought.
 
@@ -70,11 +70,12 @@ Flutter is based on Google’s in-house programming language-Dart. Flutter is mu
 #### MERN
 
 We used MERN as it facilitates the MVC (Model View Controller) architecture that make the web development process work smoothly. MERN is considered a cost-effective stack as with open-source support, accessible set-up and reduced learning time, it may have the lowest development cost. MERN framework helps to build flexible and scalable websites. The four technologies provide smooth integration with cloud platforms
+<br/><br/>
 
 ## Few Images from the mobile application
 
-<img align="left" alt="Sign in/ Sign up Screen" width="156px" src="images/1.jpeg" />
-<img align="left" alt="Home Screen" width="156px" src="images/2.jpeg" />
-<img align="left" alt="Side Drawer" width="156px" src="images/3.jpeg" />
-<img align="left" alt="Search Screen" width="156px" src="images/4.jpeg" />
-<img align="left" alt="MyCart Screen" width="156px" src="images/5.jpeg" />
+<img align="left" alt="Sign in/ Sign up Screen" width="150px" src="images/1.jpeg" />
+<img align="left" alt="Home Screen" width="150px" src="images/2.jpeg" />
+<img align="left" alt="Side Drawer" width="150px" src="images/3.jpeg" />
+<img align="left" alt="Search Screen" width="150px" src="images/4.jpeg" />
+<img align="left" alt="MyCart Screen" width="150px" src="images/5.jpeg" />
