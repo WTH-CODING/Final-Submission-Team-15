@@ -92,6 +92,6 @@ We used MERN as it facilitates the MVC (Model View Controller) architecture that
 <img alt="Full page" width="325px" src="images/web/3.jpeg" />
 <img alt="Feedback Page" width="325px" src="images/web/4.jpeg" /><br/><br/>
 
-## Few Images from Admin Web application
+## Snapshot of Admin dashboard
 
 <img alt="Admin Dashboard" width="700px" src="images/web/5.jpeg" />
