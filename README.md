@@ -1,4 +1,4 @@
-# Wyttle Web App and Mobile Application
+# <img align="left" alt="Logo" height="40px" src="images/logo/1.png"/>Wyttle Web App and Mobile Application
 
 [Link to mobile application](https://drive.google.com/drive/folders/1VFaofVO7ZtwjIsjko4sPWCz9A-ZI5873?usp=sharing)
 <br/>[Link to website](http://20.84.89.186/)
@@ -84,7 +84,6 @@ We used MERN as it facilitates the MVC (Model View Controller) architecture that
 <img align="left" alt="Side Drawer" width="155px" src="images/mobile/3.jpeg" />
 <img align="left" alt="Search Screen" width="155px" src="images/mobile/4.jpeg" />
 <img align="left" alt="MyCart Screen" width="155px" src="images/mobile/5.jpeg" />
-
 
 ## Few Images from Web application
 
