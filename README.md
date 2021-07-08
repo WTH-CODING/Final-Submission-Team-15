@@ -95,3 +95,6 @@ We used MERN as it facilitates the MVC (Model View Controller) architecture that
 ## Snapshot of Admin dashboard
 
 <img alt="Admin Dashboard" width="700px" src="images/web/5.jpeg" />
+
+
+P.S : There are still features and bugs which needs to be added and fixed which couldn't be done in one week time. Thank you.
